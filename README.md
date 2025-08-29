@@ -2,7 +2,7 @@
 
 #INTEGRANTES 
 - @yesi1817
-- @juliana2106-prog
+
   
 #DESCRIPCION
 Esste proyecto corresponde a el examen de primero momento como objetivo implementar un sistema de analisis de datos, de compras
